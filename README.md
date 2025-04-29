@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Projet_Python_snake
 
 Voici un jeux en langage Python 
+=======
+# Projet_Flutter_Garage_Management
+
+Voici un jeux Python 
+>>>>>>> 0e63b955caebf73c15b974cb8f97277ca77cc855
 
 ## Getting Started
 
@@ -11,17 +17,26 @@ Ouvrir l'invite de commande et taper : python main.py
 ```shell
 ---------------------------------------
 
+<<<<<<< HEAD
 PROJET_PYTHON_SNAKE/
 │
 ├── assets/
 │   ├── images/
 │   │   ├── snake-start.png
 │   │   └── wall.png
+=======
+projet_garage_management_flutter/
+│
+├── assets/
+│   ├── images/
+│   |   └── wall.png
+>>>>>>> 0e63b955caebf73c15b974cb8f97277ca77cc855
 │   └── sounds/
 │       ├── background_music.mp3
 │       ├── eat.wav
 │       └── gameover.wav
 │
+<<<<<<< HEAD
 ├── build/
 │   └── main/
 │       ├── localpycs/
@@ -46,4 +61,8 @@ PROJET_PYTHON_SNAKE/
 ├── high_score.txt
 ├── main.py
 ├── main.spec
+=======
+├── high_score.txt
+├── main.py
+>>>>>>> 0e63b955caebf73c15b974cb8f97277ca77cc855
 └── README.md
